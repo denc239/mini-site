@@ -1,0 +1,15 @@
+{
+  "name": "mini-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next.dev",
+    "build": "next.build",
+    "start": "next.build"
+  },
+  "dependencies": {
+    "next": "13.3.1",
+    "tailwindcss": "2.2.7",
+    "framer-motion": "4.2.5"
+  }
+}
